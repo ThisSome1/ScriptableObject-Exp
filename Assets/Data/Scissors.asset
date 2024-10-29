@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e229ccbb665002546ba9bff6a51e7460, type: 3}
+  m_Name: Scissors
+  m_EditorClassIdentifier: 
+  mesh: {fileID: -3827974485711309418, guid: 188323224c5569f4e8ad1fdea24272eb, type: 3}
+  material: {fileID: 2100000, guid: 397e47a9ae320a349984c69a8dfaa8df, type: 2}
+  weakness: {fileID: 11400000, guid: 8335f80427799324e93f1520622ddf2f, type: 2}
